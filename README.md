@@ -32,3 +32,8 @@ core_fraction=5  - гарантированная доля ядра также �
 
 ![image](https://github.com/cotangence/homework_terraform1/assets/160312212/fe03055f-d81f-4a24-86f5-c9b9a526ff83)
 ![image](https://github.com/cotangence/homework_terraform1/assets/160312212/697a6bb8-34f3-4ab3-abab-021bbe242cd3)
+
+Задание 6
+
+![image](https://github.com/cotangence/homework_terraform1/assets/160312212/a863b7f1-d5b3-4fee-b283-2f4e600b2061)
+![image](https://github.com/cotangence/homework_terraform1/assets/160312212/285f247a-d83c-4544-9830-63be689f1b2c)
