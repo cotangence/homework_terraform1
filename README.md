@@ -1,3 +1,7 @@
+Репозиторий с кодом   тут  https://github.com/cotangence/src_terraform1
+
+А здесь можно посмотреть на картинки!
+
 Задание 1
 
 ![image](https://github.com/cotangence/homework_terraform1/assets/160312212/6d5b4e0e-ef12-4b55-8ee0-88514d98b2dc)
